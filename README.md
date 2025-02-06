@@ -1,4 +1,4 @@
-# Changed eading 1
+# Changed Heading 1
 
 Here is my markdown file.
 
