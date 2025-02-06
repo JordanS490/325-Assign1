@@ -1,8 +1,8 @@
-# Heading 1
+# Changed eading 1
 
 Here is my markdown file.
 
-## Heading 2
+## Changed Heading 2
 
 Decorators can enhance a function without the original code.
 <code>
@@ -13,9 +13,9 @@ say_hello()
 
 </code>
 
-### Another Heading
+### Another Different Heading
 
-Here is my bernese mountain dog: Duke.
+Here is my bernese mountain dog: Duke
 
 ![black and white dog eating corn](20240218_174404.jpg)
 
